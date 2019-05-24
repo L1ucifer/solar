@@ -1,4 +1,5 @@
-{
+[
+			 {
 				id: 1,
 				title:"System1",
 				planets: [
@@ -41,3 +42,4 @@
 					{id:7, title:"Loita", radius: 3, speed: 0.0005, color:0x7658ef, vector: -1,  orbitRadius: 27},
 				],
 			},
+		 ];
