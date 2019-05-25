@@ -1,4 +1,4 @@
-[
+
 			 {
 				"id": 1,
 				"title":"System1",
@@ -8,4 +8,4 @@
 					{"id":3, "title":"Truhali", "radius": 1, "speed": 0.003, "color": "0x7658ef", "vector": 1,  "orbitRadius": 12},
 				],
 			},
-		 ];
+		 
