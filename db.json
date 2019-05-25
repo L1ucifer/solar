@@ -7,7 +7,7 @@
 		{"id":2, "title":"Baiba", "radius": 1, "speed": 0.0023, "color": "0x555555", "vector": -1,  "orbitRadius": 8},
 		{"id":3, "title":"Truhali", "radius": 1, "speed": 0.003, "color": "0x7658ef", "vector": 1,  "orbitRadius": 12}
 	]
-}
+},
 	 {
 				"id": 2,
 				"title":"System2",
