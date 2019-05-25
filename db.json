@@ -1,5 +1,4 @@
-
-{
+[
 	{
 	"id": 1,
 	"title":"System1",
@@ -27,4 +26,4 @@
 		{"id":4, "title":"Meaja", "radius": 1, "speed": 0.0027, "color": "0x7658ef", "vector": -1,  "orbitRadius": 20}
 		]
 	}
-}
+]
