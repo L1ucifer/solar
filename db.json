@@ -1,6 +1,6 @@
 			 {
 				"id": [
-        "idi" = 1,
+       				"idi": 1,
 				"title":"System1",
 				"planets": [
 					{"id":1, "title":"Doris", "radius": 1, "speed": 0.0015, "color": "0x1EF9F8", "vector": 1, "orbitRadius": 5},
