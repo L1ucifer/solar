@@ -11,5 +11,18 @@
 	"vector": [
 		{ "x": 1, "y": 1, "z": 0}
 		]
+	},
+	{
+	"id": 2,
+	"title": "Sat2",
+	"speed": 0.0003,
+	"color": "0x00000",
+	"mission": "explore",
+	"startCoordinates": [
+		{ "x": -21, "y": 8, "z": 0}
+	],
+	"vector": [
+		{ "x": 1, "y": 0, "z": 0}
+		]
 	}
 ]
