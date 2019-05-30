@@ -1,0 +1,15 @@
+[
+	{
+	"id": 1,
+	"title": "Sat1",
+	"speed": 0.0004,
+	"color": "0x1EF9F8",
+	"mission": "destroy",
+	"startCoordinates": [
+		{ "x": 17, "y": 11, "z": 0}
+	],
+	"vector": [
+		{ "x": 1, "y": 0, "z": 0}
+		]
+	}
+]
